@@ -1,0 +1,12 @@
+export './colors.dart';
+export './images.dart';
+export './strings.dart';
+export './firebase_const.dart';
+export './../views/common_widgets/our_button.dart';
+export './../views/common_widgets/applogo_widget.dart';
+export './../views/common_widgets/bg_widget.dart';
+export './../views/common_widgets/loading_indicator.dart';
+export './../views/common_widgets/custom_textfield.dart';
+export './styles.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:flutter/material.dart';
